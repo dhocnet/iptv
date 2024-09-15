@@ -1,356 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ADiTV.id",ADiTV (720p) [Not 24/7]
-https://v2.siar.us/aditv/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="AKTV.id",AKTV (720p)
-https://e.siar.us/live/aktv.m3u8
-#EXTINF:-1 tvg-id="AlImanTV.id",Al-Iman TV (720p)
-https://tv.aliman.id/aliman/live.m3u8
-#EXTINF:-1 tvg-id="AlWafaTarim.id",Alwafa Tarim TV (Am Media) (720p)
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ArekTV.id",Arek TV (720p)
-https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
-#EXTINF:-1 tvg-id="ATVLIChannel.id",ATVLI Channel (720p)
-https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN.id",AXN (Indonesia) (720p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
-#EXTINF:-1 tvg-id="BaliTV.id",Bali TV (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF:-1 tvg-id="BalikpapanTV.id",Balikpapan TV (720p)
-https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
-#EXTINF:-1 tvg-id="BandungTV.id",Bandung TV (360p)
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 tvg-id="BantenTV.id",Banten TV (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 tvg-id="BMSTV.id",Banyumas TV (720p) [Geo-blocked]
-https://v2.siar.us/bmstv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BatamTV.id",Batam TV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="BatuTV.id",Batu TV (576p) [Not 24/7]
-http://117.103.69.219:8080/live/streaming/index.m3u8
-#EXTINF:-1 tvg-id="BayuTVNganjuk.id",Bayu TV Nganjuk (720p)
-https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
-#EXTINF:-1 tvg-id="BBSTV.id",BBS TV (1080p)
-http://103.119.54.246:8080/hls/bbstv.m3u8
-#EXTINF:-1 tvg-id="BiznetAdventure.id",Biznet Adventure (720p)
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BioskopIndonesia.id",Biznet Adventure (720p) [Geo-blocked]
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41d51f9f-8855-e625-012f-304a1f0eb538)/index.m3u8
-#EXTINF:-1 tvg-id="BiznetKids.id",Biznet Kids (480p)
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 tvg-id="BiznetLifestyle.id",Biznet Lifestyle (480p)
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 tvg-id="",BNTV [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
-#EXTINF:-1 tvg-id="BRTV.id",BRTV (1080p) [Not 24/7]
-https://e1.siar.us/badartv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BTV.id",BTV (720p)
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 tvg-id="BungoTV.id",Bungo TV (480p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CahayaTVBanten.id",Cahaya Banten TV (720p) [Not 24/7]
-https://wowza.convergen.co/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CelebesTV.id",Celebes TV [Not 24/7]
-https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
-#EXTINF:-1 tvg-id="CitraBioskop.id",Citra Bioskop (720p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
-#EXTINF:-1 tvg-id="CitraDangdut.id",Citra Dangdut [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
-#EXTINF:-1 tvg-id="CitraDrama.id",Citra Drama (720p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
-#EXTINF:-1 tvg-id="CitraMuslim.id",Citra Muslim [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id",CNBC Indonesia (720p)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="DAAITV.id",DAAI TV (720p)
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
-#EXTINF:-1 tvg-id="DhammaTV.id",Dhamma TV (720p) [Not 24/7]
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:-1 tvg-id="DhohoTV.id",Dhoho TV (720p)
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DigiOne.id",DigiOne (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-#EXTINF:-1 tvg-id="DuniaGamesTV.id",Dunia Games TV (720p) [Not 24/7] [Geo-blocked]
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
-#EXTINF:-1 tvg-id="DutaTV.id",Duta TV (360p) [Not 24/7]
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FajarTV.id",Fajar TV (240p) [Not 24/7]
-http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="FicomChannel.id",Ficom Channel (720p)
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id",Garuda TV (720p)
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id",Garuda TV (480p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
-#EXTINF:-1 tvg-id="Horee.id",Horee! (720p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
-#EXTINF:-1 tvg-id="HumaBetangTV.id",Huma Betang TV (720p) [Not 24/7]
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IAmChannel.id",I AM CHANNEL (576p) [Not 24/7]
-http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:-1 tvg-id="iBerkah.id",iBerkah (1080p)
-https://play.accolamedia.id/accola/iberkah.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="IDTV.id",IDTV (720p) [Not 24/7]
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 tvg-id="IDXChannel.id",IDX Channel (720p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
-#EXTINF:-1 tvg-id="IndonesianaTV.id",Indonesiana.TV (720p)
-https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
-#EXTINF:-1 tvg-id="InspiraTV.id",Inspira TV (720p) [Not 24/7]
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IzzahTV.id",Izzah TV (480p)
-https://streaming.radiosalamjambi.com/izzahtv.m3u8
-#EXTINF:-1 tvg-id="JakTV.id",Jak TV (480p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
-#EXTINF:-1 tvg-id="JambiTV.id",Jambi TV (576p) [Not 24/7]
-http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id",Jawa Pos TV (720p) [Not 24/7]
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="JekTV.id",Jek TV (720p) [Not 24/7]
-http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JogjaIstimewaTV.id",Jogja Istimewa TV (720p)
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="JogjaTV.id",Jogja TV (720p) [Not 24/7]
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 tvg-id="JTV.id",JTV (720p) [Not 24/7] [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
-#EXTINF:-1 tvg-id="KilisuciTV.id",Kilisuci TV
-https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
-#EXTINF:-1 tvg-id="LingkarTV.id",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-id="MaduTV.id",Madu TV (576p)
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 tvg-id="MagnaChannel.id",Magna Channel (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Max2U.id",Max2U (720p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
-#EXTINF:-1 tvg-id="MetroGlobeNetwork.id",Metro Globe Network (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MGITV.id",MGI TV (720p) [Geo-blocked]
-https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MGSTV.id",MGS TV (720p) [Not 24/7]
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
-#EXTINF:-1 tvg-id="MQTV.id",MQTV (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MTATV.id",MTA TV (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
-#EXTINF:-1 tvg-id="MyCinema.id",My Cinema (1080p)
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:-1 tvg-id="MyCinemaAsia.id",My Cinema Asia (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-id="MyFamily.id",My Family Channel (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h194/index.m3u8
-#EXTINF:-1 tvg-id="MyKidz.id",My Kidz (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-#EXTINF:-1 tvg-id="NaDooCommerce.id",NaDoo Commerce (1080p) [Geo-blocked]
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h126/live.m3u8
-#EXTINF:-1 tvg-id="NaDooKorean.id",NaDoo Korean (1080p) [Geo-blocked]
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
-#EXTINF:-1 tvg-id="NusantaraTV.id",Nusantara TV (720p)
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="OnlineTVNusantara.id",Online TV Nusantara (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
-#EXTINF:-1 tvg-id="PadangTV.id",Padang TV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="PalembangTV.id",Pal TV (720p) [Not 24/7]
-https://v3.siar.us/paltv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.id",Paramount Network (Indonesia) (720p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-#EXTINF:-1 tvg-id="PONTV.id",Pon TV (360p) [Not 24/7]
-http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="PONTV.id",Pon TV (360p) [Not 24/7]
-https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PSJTV.id",PSJ TV (1080p)
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PujaTVAceh.id",Puja TV Aceh (1080p) [Not 24/7]
-https://v6.siar.us/pujatv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id",Radar Tasikmalaya TV (720p) [Not 24/7]
-http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadarLampungTV.id",Radar TV Lampung (480p) [Not 24/7]
-http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id",Rajawali TV
-https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
-#EXTINF:-1 tvg-id="RCTV.id",RCTV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RCTV.id",RCTV (576p) [Not 24/7]
-https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RiauTV.id",Riau TV (576p) [Not 24/7]
-http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RodjaTV.id",Rodja TV (720p)
-https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1 tvg-id="RRINet.id",RRI Net (1080p)
-https://rrinet.rri.co.id/hls/live.m3u8
-#EXTINF:-1 tvg-id="SaktiTV.id",Sakti TV (720p)
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SangajiTV.id",Sangaji TV (720p) [Not 24/7]
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-#EXTINF:-1 tvg-id="SEAToday.id",Sea Today (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:-1 tvg-id="SemarangTV.id",Semarang TV (720p)
-http://116.254.112.74/hls/cakralive.m3u8
-#EXTINF:-1 tvg-id="Simpang5TV.id",Simpang5 TV (360p) [Not 24/7]
-http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SMTV.id",SMTV (720p) [Not 24/7]
-http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TATV.id",TATV (720p) [Not 24/7]
-https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TawafTV.id",Tawaf TV (720p)
-https://streamtawaf.asfatv.com/hls/tawaftv.m3u8
-#EXTINF:-1 tvg-id="TegarTVJogja.id",Tegar TV Jogja (720p)
-http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
-#EXTINF:-1 tvg-id="TegarTVLampung.id",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-#EXTINF:-1 tvg-id="TegarTVLampung.id",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
-https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
-#EXTINF:-1 tvg-id="Trans7.id",Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-id="TransTV.id",Trans TV (720p)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-#EXTINF:-1 tvg-id="TV9Nusantara.id",TV9 Nusantara (720p)
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="TVKesehatan.id",TV Kesehatan (1080p)
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMu.id",TV Mu (720p) [Not 24/7]
-https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-id="TVTabalong.id",TV Tabalong (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:-1 tvg-id="TVKU.id",TVKU (720p)
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="TVRParlemen.id",TVR Parlemen (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRParlemen.id",TVR Parlemen (720p) [Not 24/7]
-https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRIAceh.id",TVRI Aceh (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIAceh.id",TVRI Aceh (720p) [Not 24/7]
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIBali.id",TVRI Bali (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIBali.id",TVRI Bali (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id",TVRI Bangka Belitung (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id",TVRI Bangka Belitung (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIBengkulu.id",TVRI Bengkulu (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIBengkulu.id",TVRI Bengkulu (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIDKIJakarta.id",TVRI DKI Jakarta (720p) [Not 24/7]
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIDKIJakarta.id",TVRI DKI Jakarta (720p) [Not 24/7]
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIGorontalo.id",TVRI Gorontalo (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIGorontalo.id",TVRI Gorontalo (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIJambi.id",TVRI Jambi (720p) [Not 24/7]
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIJambi.id",TVRI Jambi (720p) [Not 24/7]
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestJava.id",TVRI Jawa Barat (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestJava.id",TVRI Jawa Barat (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRICentralJava.id",TVRI Jawa Tengah (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRICentralJava.id",TVRI Jawa Tengah (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIEastJava.id",TVRI Jawa Timur (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIEastJava.id",TVRI Jawa Timur (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestKalimantan.id",TVRI Kalimantan Barat (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestKalimantan.id",TVRI Kalimantan Barat (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISouthKalimantan.id",TVRI Kalimantan Selatan (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISouthKalimantan.id",TVRI Kalimantan Selatan (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-#EXTINF:-1 tvg-id="TVRICentralKalimantan.id",TVRI Kalimantan Tengah (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRICentralKalimantan.id",TVRI Kalimantan Tengah (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIEastKalimantan.id",TVRI Kalimantan Timur (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIEastKalimantan.id",TVRI Kalimantan Timur (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRILampung.id",TVRI Lampung (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRILampung.id",TVRI Lampung (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIMaluku.id",TVRI Maluku (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIMaluku.id",TVRI Maluku (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id",TVRI Nasional (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1 tvg-id="TVRINasional.id",TVRI Nasional (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestNusaTenggara.id",TVRI Nusa Tenggara Barat (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestNusaTenggara.id",TVRI Nusa Tenggara Barat (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIEastNusaTenggara.id",TVRI Nusa Tenggara Timur (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIEastNusaTenggara.id",TVRI Nusa Tenggara Timur (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIPapua.id",TVRI Papua (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIPapua.id",TVRI Papua (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIRiau.id",TVRI Riau (720p) [Not 24/7]
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIRiau.id",TVRI Riau (720p) [Not 24/7]
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id",TVRI Sport (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id",TVRI Sport (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestSulawesi.id",TVRI Sulawesi Barat (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestSulawesi.id",TVRI Sulawesi Barat (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISouthSulawesi.id",TVRI Sulawesi Selatan (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISouthSulawesi.id",TVRI Sulawesi Selatan (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-#EXTINF:-1 tvg-id="TVRICentralSulawesi.id",TVRI Sulawesi Tengah (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-#EXTINF:-1 tvg-id="TVRICentralSulawesi.id",TVRI Sulawesi Tengah (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISoutheastSulawesi.id",TVRI Sulawesi Tenggara (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISoutheastSulawesi.id",TVRI Sulawesi Tenggara (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestSumatra.id",TVRI Sumatera Barat (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWestSumatra.id",TVRI Sumatera Barat (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISouthSumatra.id",TVRI Sumatera Selatan (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-#EXTINF:-1 tvg-id="TVRISouthSumatra.id",TVRI Sumatera Selatan (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id",TVRI World
+
+#EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/07/2023/09/30/logo-Kualifikasi-Piala-Dunia-2026-zona-Asia-1971193940.jpg",KUALIFIKASI PIALA DUNIA
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="KUALIFIKASI PIALA DUNIA;CHANNEL | SPORT INDO",MNC Sports (Sportstars)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="KUALIFIKASI PIALA DUNIA;CHANNEL | SPORT INDO",MNC Sports 2 (Sportstars 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="KUALIFIKASI PIALA DUNIA;CHANNEL | SPORT INDO",MNC Sports (Sportstars)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="KUALIFIKASI PIALA DUNIA;CHANNEL | SPORT INDO",MNC Sports 2 (Sportstars 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
+EXTINF:-1 xui-id="323" tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkc_kGc4Zurs3J6OMCJZu-WQ.png" group-title="CHANNEL | SPORT INDO",SPOTV 1
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0xIrWp51hyiKyfD2NM3KxbE
+#EXTINF:-1 xui-id="324" tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="CHANNEL | SPORT INDO",SPOTV 2
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX068KAbXmypJmxN4nk0sLTnc
+#EXTINF:-1 xui-id="325" tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkU02uyRa7ztrVnDBwEXFGvw00H9ZRmc5YnXXVg_6iJJY.png" group-title="CHANNEL | SPORT INDO",SOCCER CHANNEL
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0zEldvjJhp_sm1wO4mUQ3Iw
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TVRI TV Nasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI  TV Nasional
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/ TV Nasional/hls/ TV Nasional.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TVRIWorld.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id",TVRI World (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIYogyakarta.id",TVRI Yogyakarta (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-#EXTINF:-1 tvg-id="TVRIYogyakarta.id",TVRI Yogyakarta (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-#EXTINF:-1 tvg-id="UGTV.id",UGTV (720p)
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:-1 tvg-id="WesalTV.id",Wesal TV (720p) [Not 24/7]
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-#EXTINF:-1 tvg-id="ZeeBioskop.id",Zee Bioskop (360p) [Geo-blocked]
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id",Indosiar
-http://203.77.246.2:443/udp/239.1.1.110:5000
-#EXTINF:-1 tvg-id="SCTV.id",SCTV
-http://203.77.246.2:443/udp/239.1.1.108:5000
-#EXTINF:-1 tvg-id="ANTV.id",ANTV
-http://203.77.246.2:443/udp/239.1.1.104:5000
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -374,3 +64,318 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+#EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/sctvfm
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/indosiarfm
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji HD
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+#EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/mojifm
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MentariTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
+#EXTVLCOPT:http-user-agent=FirstMediaX/3.46.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/antvfm
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/tvonehd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=CubMu/1.5.8 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=CubMu/1.5.8 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://cubmu.com
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="CNBCIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/metrotvhd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="metroglobenetwork.id" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/kompastvhd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Net.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET HD
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/nettvhd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="nusantaratv.id" tvg-logo="https://iptv.urfan.web.id/logo/nusantaratv.png",Nusantara TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="GARUDATV.id" tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png",Garuda TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="IDTV.id" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://b1world.Newssatumedia.com/Newssatu/B1World_manifest.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/mtatvhd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="daaitv.id" tvg-logo="https://iptv.urfan.web.id/logo/daaitv.png",DAAITV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://pull.daaiplus.com/live-DAAITV/livestream-DAAITV.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png",TV Kesehatan
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Digione.id" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
+#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="RRINET.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png",RRI NET
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://public-streaming.rri.co.id/memfs/b3169f10-7846-496c-a186-698ea5ddd310.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="NewsSatu.id" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://b1news.Newssatumedia.com/Newssatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="GPRTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.id/gprtv
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="IndonesianaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Indonesiana TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="IndonesianaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Musik & Folklor
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",MAXSTREAM
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="seatoday.id" tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png",SEA TODAY
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://hls.seatoday.com/hls_hd/seatoday.m3u8
+
+#EXTINF:-1 tvg-id="Bali TV.id" tvg-logo="https://iili.io/JbtnVEu.png" group-title="CHANNEL | DAERAH",Bali TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+ 
+#EXTINF:-1 tvg-id="Bandung TV.id" tvg-logo="https://iili.io/Jbtnh2j.png" group-title="CHANNEL | DAERAH",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+ 
+#EXTINF:-1 tvg-id="JakTV" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="CHANNEL | DAERAH",JakTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnQjI.png" group-title="CHANNEL | DAERAH",Elshinta TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
+ 
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="CHANNEL | DAERAH",JTV
+https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtnakl.png" group-title="CHANNEL | DAERAH",TATV
+https://nin.siar.us/tatv/live.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" group-title="CHANNEL | DAERAH",Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto2u2.png" group-title="CHANNEL | DAERAH",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="CHANNEL | DAERAH",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="CHANNEL | DAERAH",Semarang TV
+http://116.254.112.74:80/hls/cakralive.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnEQ9.png" group-title="CHANNEL | DAERAH",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtncp2.png" group-title="CHANNEL | DAERAH",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jm9IUfR.png" group-title="CHANNEL | DAERAH",AFB TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch54.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jm9IvWJ.png" group-title="CHANNEL | DAERAH",Timor TV
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnMBe.png" group-title="CHANNEL | DAERAH",Arek TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="CHANNEL | DAERAH",Batu TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnWrb.png" group-title="CHANNEL | DAERAH",Balikpapan TV
+https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtozyQ.png" group-title="CHANNEL | DAERAH",PKTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jyi8zhB.png" group-title="CHANNEL | DAERAH",AKTV
+https://e.siar.us/live/aktv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" group-title="CHANNEL | DAERAH",Banjar TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtn43J.png" group-title="CHANNEL | DAERAH",BETV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch58.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtoJyl.png" group-title="CHANNEL | DAERAH",Duta TV
+https://o1.siar.us/dutatv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto9af.png" group-title="CHANNEL | DAERAH",Jaya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch52.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtoTuV.png" group-title="CHANNEL | DAERAH",Prima TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="CHANNEL | DAERAH",Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnkhP.png" group-title="CHANNEL | DAERAH",Batam TV
+http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnSCF.png" group-title="CHANNEL | DAERAH",BMS TV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtn6Yv.png" group-title="CHANNEL | DAERAH",Dayak TV
+https://v5.siar.us/dayaktv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="CHANNEL | DAERAH",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtnipp.png" group-title="CHANNEL | DAERAH",Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtox8x.png" group-title="CHANNEL | DAERAH",Kilisuci TV
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnzXt.png" group-title="CHANNEL | DAERAH",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtny3G.png" group-title="CHANNEL | DAERAH",Jambi TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtoHv4.png" group-title="CHANNEL | DAERAH",Jek TV
+https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtofn9.png" group-title="CHANNEL | DAERAH",Kawanua TV
+http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtoqGe.png" group-title="CHANNEL | DAERAH",MGS TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbton3b.png" group-title="CHANNEL | DAERAH",Pal TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch18.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtouwB.png" group-title="CHANNEL | DAERAH",Pon TV
+http://63b2dc7196c38.streamlock.net:1935/ch15/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto5n1.png" group-title="CHANNEL | DAERAH",Radar TV Tasikmalaya
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto7MF.png" group-title="CHANNEL | DAERAH",RBTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch59.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnILX.png" group-title="CHANNEL | DAERAH",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtn72f.png" group-title="CHANNEL | DAERAH",Riau TV
+https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnxII.png" group-title="CHANNEL | DAERAH",Sampit TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch56.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnRrG.png" group-title="CHANNEL | DAERAH",Simpang5 TV
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnY74.png" group-title="CHANNEL | DAERAH",SMTV
+http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JbtneTB.png" group-title="CHANNEL | DAERAH",Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
