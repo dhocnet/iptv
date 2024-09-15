@@ -372,9 +372,9 @@ https://flv.intechmedia.net/live/ch56.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnRrG.png" group-title="CHANNEL DAERAH",Simpang5 TV
 https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnY74.png" group-title="CHANNEL | DAERAH",SMTV
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnY74.png" group-title="CHANNEL DAERAH",SMTV
 http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtneTB.png" group-title="CHANNEL | DAERAH",Tegar TV Lampung
+#EXTINF:-1 tvg-logo="https://iili.io/JbtneTB.png" group-title="CHANNEL DAERAH",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
